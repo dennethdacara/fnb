@@ -1,0 +1,17 @@
+[
+  {"id": "1", "group_id": "0", "name": "Pre-School", "image": "prep-kids.png",  "is_published": true, "sort_order": 0},
+  {"id": "2", "group_id": "0", "name": "Elementary", "image": "elementary.png",  "is_published": true, "sort_order": 0},
+  {"id": "3", "group_id": "0", "name": "Junior Highschool", "image": "junior_highschool.png",  "is_published": true, "sort_order": 0},
+  {"id": "4", "group_id": "0", "name": "Senior Highschool", "image": "senior_highschool.png",  "is_published": true, "sort_order": 0},
+  {"id": "5", "group_id": "0", "name": "E-Books", "image": "elementary_photo.png",  "is_published": true, "sort_order": 0},
+  {"id": "6", "group_id": "0", "name": "Other Educational Books", "image": "prep-kids.png",  "is_published": true, "sort_order": 0},
+  {"id": "7", "group_id": "1", "name": "Nursery", "image": "prep-photo.png",  "is_published": true, "sort_order": 0},
+  {"id": "8", "group_id": "1", "name": "Kinder 1", "image": "prep-photo.png",  "is_published": true, "sort_order": 0},
+  {"id": "9", "group_id": "1", "name": "Kinder 2", "image": "prep-photo.png",  "is_published": true, "sort_order": 0},
+  {"id": "10", "group_id": "2", "name": "Grade 1", "image": "elementary_photo.png",  "is_published": true, "sort_order": 0},
+  {"id": "11", "group_id": "2", "name": "Grade 2", "image": "elementary_photo.png",  "is_published": true, "sort_order": 0},
+  {"id": "12", "group_id": "2", "name": "Grade 3", "image": "elementary_photo.png",  "is_published": true, "sort_order": 0},
+  {"id": "13", "group_id": "2", "name": "Grade 4", "image": "elementary_photo.png",  "is_published": true, "sort_order": 0},
+  {"id": "14", "group_id": "2", "name": "Grade 5", "image": "elementary_photo.png",  "is_published": true, "sort_order": 0},
+  {"id": "15", "group_id": "2", "name": "Grade 6", "image": "elementary_photo.png",  "is_published": true, "sort_order": 0}
+]
